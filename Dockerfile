@@ -134,7 +134,7 @@ ENV \
     # Zhipu
     ZHIPU_API_KEY=""
 
-USER nextjs
+USER root
 
 EXPOSE 3210/tcp
 
